@@ -1,0 +1,11 @@
+T=Camry
+N=Altima
+M=Lancer
+P=911 Turbo
+B=33i
+H=Civic
+F=Focus
+C=Impala
+A=TLX
+S=TC
+M=Eclipse
